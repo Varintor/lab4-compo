@@ -19,3 +19,6 @@ export interface Student {
   image: string
   description: string
 }
+export interface MessageState{
+  message: string
+}
